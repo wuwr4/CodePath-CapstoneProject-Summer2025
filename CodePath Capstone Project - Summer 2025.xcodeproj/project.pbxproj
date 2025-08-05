@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		EA5C1E8B2E426BEF003A84FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA5C1E6C2E426BEE003A84FD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA5C1E732E426BEE003A84FD;
+			remoteInfo = "CodePath Capstone Project - Summer 2025";
+		};
+		EA5C1E952E426BEF003A84FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA5C1E6C2E426BEE003A84FD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA5C1E732E426BEE003A84FD;
+			remoteInfo = "CodePath Capstone Project - Summer 2025";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EA5C1E742E426BEE003A84FD /* CodePath Capstone Project - Summer 2025.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CodePath Capstone Project - Summer 2025.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5C1E8A2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CodePath Capstone Project - Summer 2025Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA5C1E942E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CodePath Capstone Project - Summer 2025UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		EA5C1E9C2E426BEF003A84FD /* Exceptions for "CodePath Capstone Project - Summer 2025" folder in "CodePath Capstone Project - Summer 2025" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = EA5C1E732E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		EA5C1E762E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				EA5C1E9C2E426BEF003A84FD /* Exceptions for "CodePath Capstone Project - Summer 2025" folder in "CodePath Capstone Project - Summer 2025" target */,
+			);
+			path = "CodePath Capstone Project - Summer 2025";
+			sourceTree = "<group>";
+		};
+		EA5C1E8D2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "CodePath Capstone Project - Summer 2025Tests";
+			sourceTree = "<group>";
+		};
+		EA5C1E972E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "CodePath Capstone Project - Summer 2025UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EA5C1E712E426BEE003A84FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E872E426BEF003A84FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E912E426BEF003A84FD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EA5C1E6B2E426BEE003A84FD = {
+			isa = PBXGroup;
+			children = (
+				EA5C1E762E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */,
+				EA5C1E8D2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests */,
+				EA5C1E972E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests */,
+				EA5C1E752E426BEE003A84FD /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EA5C1E752E426BEE003A84FD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EA5C1E742E426BEE003A84FD /* CodePath Capstone Project - Summer 2025.app */,
+				EA5C1E8A2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests.xctest */,
+				EA5C1E942E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EA5C1E732E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5C1E9D2E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025" */;
+			buildPhases = (
+				EA5C1E702E426BEE003A84FD /* Sources */,
+				EA5C1E712E426BEE003A84FD /* Frameworks */,
+				EA5C1E722E426BEE003A84FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				EA5C1E762E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */,
+			);
+			name = "CodePath Capstone Project - Summer 2025";
+			packageProductDependencies = (
+			);
+			productName = "CodePath Capstone Project - Summer 2025";
+			productReference = EA5C1E742E426BEE003A84FD /* CodePath Capstone Project - Summer 2025.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EA5C1E892E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5C1EA22E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025Tests" */;
+			buildPhases = (
+				EA5C1E862E426BEF003A84FD /* Sources */,
+				EA5C1E872E426BEF003A84FD /* Frameworks */,
+				EA5C1E882E426BEF003A84FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA5C1E8C2E426BEF003A84FD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EA5C1E8D2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests */,
+			);
+			name = "CodePath Capstone Project - Summer 2025Tests";
+			packageProductDependencies = (
+			);
+			productName = "CodePath Capstone Project - Summer 2025Tests";
+			productReference = EA5C1E8A2E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EA5C1E932E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA5C1EA52E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025UITests" */;
+			buildPhases = (
+				EA5C1E902E426BEF003A84FD /* Sources */,
+				EA5C1E912E426BEF003A84FD /* Frameworks */,
+				EA5C1E922E426BEF003A84FD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA5C1E962E426BEF003A84FD /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				EA5C1E972E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests */,
+			);
+			name = "CodePath Capstone Project - Summer 2025UITests";
+			packageProductDependencies = (
+			);
+			productName = "CodePath Capstone Project - Summer 2025UITests";
+			productReference = EA5C1E942E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EA5C1E6C2E426BEE003A84FD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					EA5C1E732E426BEE003A84FD = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					EA5C1E892E426BEF003A84FD = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = EA5C1E732E426BEE003A84FD;
+					};
+					EA5C1E932E426BEF003A84FD = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = EA5C1E732E426BEE003A84FD;
+					};
+				};
+			};
+			buildConfigurationList = EA5C1E6F2E426BEE003A84FD /* Build configuration list for PBXProject "CodePath Capstone Project - Summer 2025" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EA5C1E6B2E426BEE003A84FD;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = EA5C1E752E426BEE003A84FD /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EA5C1E732E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */,
+				EA5C1E892E426BEF003A84FD /* CodePath Capstone Project - Summer 2025Tests */,
+				EA5C1E932E426BEF003A84FD /* CodePath Capstone Project - Summer 2025UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EA5C1E722E426BEE003A84FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E882E426BEF003A84FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E922E426BEF003A84FD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EA5C1E702E426BEE003A84FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E862E426BEF003A84FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA5C1E902E426BEF003A84FD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EA5C1E8C2E426BEF003A84FD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA5C1E732E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */;
+			targetProxy = EA5C1E8B2E426BEF003A84FD /* PBXContainerItemProxy */;
+		};
+		EA5C1E962E426BEF003A84FD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA5C1E732E426BEE003A84FD /* CodePath Capstone Project - Summer 2025 */;
+			targetProxy = EA5C1E952E426BEF003A84FD /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EA5C1E9E2E426BEF003A84FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CodePath Capstone Project - Summer 2025/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EA5C1E9F2E426BEF003A84FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "CodePath Capstone Project - Summer 2025/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EA5C1EA02E426BEF003A84FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EA5C1EA12E426BEF003A84FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EA5C1EA32E426BEF003A84FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CodePath Capstone Project - Summer 2025.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CodePath Capstone Project - Summer 2025";
+			};
+			name = Debug;
+		};
+		EA5C1EA42E426BEF003A84FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CodePath Capstone Project - Summer 2025.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CodePath Capstone Project - Summer 2025";
+			};
+			name = Release;
+		};
+		EA5C1EA62E426BEF003A84FD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "CodePath Capstone Project - Summer 2025";
+			};
+			name = Debug;
+		};
+		EA5C1EA72E426BEF003A84FD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "WanRong-Wu.CodePath-Capstone-Project---Summer-2025UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "CodePath Capstone Project - Summer 2025";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA5C1E6F2E426BEE003A84FD /* Build configuration list for PBXProject "CodePath Capstone Project - Summer 2025" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5C1EA02E426BEF003A84FD /* Debug */,
+				EA5C1EA12E426BEF003A84FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5C1E9D2E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5C1E9E2E426BEF003A84FD /* Debug */,
+				EA5C1E9F2E426BEF003A84FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5C1EA22E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5C1EA32E426BEF003A84FD /* Debug */,
+				EA5C1EA42E426BEF003A84FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA5C1EA52E426BEF003A84FD /* Build configuration list for PBXNativeTarget "CodePath Capstone Project - Summer 2025UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA5C1EA62E426BEF003A84FD /* Debug */,
+				EA5C1EA72E426BEF003A84FD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA5C1E6C2E426BEE003A84FD /* Project object */;
+}
