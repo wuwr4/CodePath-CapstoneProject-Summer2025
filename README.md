@@ -68,6 +68,15 @@ Sprint 1
 [X] Clicking an item shows a detailed view with back button
 []  Create a data model for a Meal object
 
+Video Walk-Through of Progress
+<div>
+    <a href="https://www.loom.com/share/7ebf3eddc11746b59cb9e1966a39c27d">
+    </a>
+    <a href="https://www.loom.com/share/7ebf3eddc11746b59cb9e1966a39c27d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7ebf3eddc11746b59cb9e1966a39c27d-6e5d7b5f035244c0-full-play.gif">
+    </a>
+  </div>
+
 Sprint 2
 [] User can see a tab bar for navigation
 [] User can navigate to a Locations tab
