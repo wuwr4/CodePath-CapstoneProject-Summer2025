@@ -63,6 +63,15 @@ Flow Navigation (Screen to Screen)
 Wireframes
 ![IMG_0362](https://hackmd.io/_uploads/r1XVDskOxg.jpg)
 
+Sprint 1
+[X] User can see a scrolling view of items with pictures and labels
+[X] Clicking an item shows a detailed view with back button
+[]  Create a data model for a Meal object
+
+Sprint 2
+[] User can see a tab bar for navigation
+[] User can navigate to a Locations tab
+
 Schema
 [This section will be completed in Unit 9]
 
