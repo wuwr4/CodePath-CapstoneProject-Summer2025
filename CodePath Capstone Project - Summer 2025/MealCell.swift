@@ -15,6 +15,8 @@ class MealCell: UITableViewCell {
         
     @IBOutlet weak var mealRatingLabel: UILabel!
     
+    @IBOutlet weak var mealVegetarianLabel: UILabel!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code

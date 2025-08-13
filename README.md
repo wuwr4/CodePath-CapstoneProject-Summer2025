@@ -66,7 +66,7 @@ Wireframes
 Sprint 1
 [X] User can see a scrolling view of items with pictures and labels
 [X] Clicking an item shows a detailed view with back button
-[]  Create a data model for a Meal object
+[X] Create a data model for a Meal object
 
 Video Walk-Through of Progress
 <div>
@@ -80,6 +80,23 @@ Video Walk-Through of Progress
 Sprint 2
 [] User can see a tab bar for navigation
 [] User can navigate to a Locations tab
+[X] User can navigate to a detail view of a selected Meal and the view shows the details for the selected meal
+[X] User can see whether or not a meal is vegetarian
+[X] Create mock data to populate table view
+
+Video Walk-Through of Progress
+<div>
+    <a href="https://www.loom.com/share/e4c4daee47f445708c8f8b4108247eb1">
+    </a>
+    <a href="https://www.loom.com/share/e4c4daee47f445708c8f8b4108247eb1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e4c4daee47f445708c8f8b4108247eb1-33bc3951359cdb08-full-play.gif">
+    </a>
+  </div>
+  
+Sprint 3
+[] User can see images that represent the meal
+[] Create mock data for Locations
+
 
 Schema
 [This section will be completed in Unit 9]
